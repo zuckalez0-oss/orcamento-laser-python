@@ -1,0 +1,11 @@
+[
+  {
+    "tipo": "r", "qtd": 1, "esp": 2.00, "medida_a": 200, "medida_b": 200, "qtd_furos": 10, "diam_furos": 15
+  },
+  {
+    "tipo": "r", "qtd": 2, "esp": 3.00, "medida_a": 200, "medida_b": 200, "qtd_furos": 5, "diam_furos": 10
+  },
+  {
+    "tipo": "r", "qtd": 3, "esp": 3.00, "medida_a": 200, "medida_b": 200, "qtd_furos": 0, "diam_furos": 0
+  }
+]
